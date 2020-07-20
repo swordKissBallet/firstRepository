@@ -1,2 +1,3 @@
 # firstRepository
 学习git时创建的第一个仓库
+pcCreate分支下在pc端修改信息
